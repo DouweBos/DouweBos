@@ -11,11 +11,3 @@ Software engineer mostly working on mobile and media products. Currently at **Pl
 Staff Software Engineer at [Plex](https://plex.tv) — React Native apps for playback, casting, and CTV remote. TypeScript + Cloudflare BFF and server-driven UI. Also working on the React website and backend services.
 
 Spending a lot of time building things with AI-assisted development workflows.
-
-## Projects
-
-| Project | Description |
-|---------|-------------|
-| [Checkpoint](https://github.com/DouweBos/Checkpoint) | macOS menu bar app that manages Claude Code permission prompt hooks |
-| [Conductor](https://github.com/DouweBos/conductor) | CLI tool for managing and orchestrating multiple iOS simulator sessions |
-| [Plaude](https://github.com/DouweBos/Plaude) | macOS menu bar Plex player with Claude AI integration |
