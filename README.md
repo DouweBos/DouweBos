@@ -1,6 +1,6 @@
 # Douwe Bos
 
-> Mobile, media, and developer tools. Based in Amsterdam. Currently struggling with an AI addiction.
+Mobile, media, and developer tools. Based in Amsterdam. Currently struggling with an AI addiction.
 
 ## About
 
