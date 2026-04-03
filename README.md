@@ -19,9 +19,3 @@ Spending a lot of time building things with AI-assisted development workflows.
 | [Checkpoint](https://github.com/DouweBos/Checkpoint) | macOS menu bar app that manages Claude Code permission prompt hooks |
 | [Conductor](https://github.com/DouweBos/conductor) | CLI tool for managing and orchestrating multiple iOS simulator sessions |
 | [Plaude](https://github.com/DouweBos/Plaude) | macOS menu bar Plex player with Claude AI integration |
-
----
-
-```
-Swift · TypeScript · Kotlin · React Native · React · Python
-```
