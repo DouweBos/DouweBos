@@ -9,5 +9,3 @@ Software engineer mostly working on mobile and media products. Currently at **Pl
 ## Now
 
 Staff Software Engineer at [Plex](https://plex.tv) — React Native apps for playback, casting, and CTV remote. TypeScript + Cloudflare BFF and server-driven UI. Also working on the React website and backend services.
-
-Spending a lot of time building and refining AI-assisted development workflows.
